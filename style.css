@@ -1,0 +1,69 @@
+.travel_maindiv{
+    
+    padding-left:0px;
+    padding-right:0px;
+    float:none;
+}
+
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+
+}
+
+
+.movie_head i{
+float:right;
+}
+
+
+.enviornment_li{
+    margin-top:13px;
+
+}
+
+
+.enviornment_li h4{
+    border-botttom:1px solid white;
+    padding:8px;
+}
+
+
+.enviorment_li img{
+    border-radius:25px;
+    
+}
+
+
+.enviornment_li p{
+    font-size:20px;
+    margin-top:10px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.header{
+    line-height:2;
+}
+
+.modal-body{
+    text-align:center;
+}
+
+.p_modal{
+    margin-top:10px;
+}
+
+.modal-content{
+    margin-top:100px;
+}
+
+#contact{
+    margin-top:20px;
+}
+
+
+
